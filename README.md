@@ -26,13 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React, Vue, SQL, Nodejs**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **The core principals and fundamentals of js**
-
-- ☁️ I intend to keep everything close to the metal. So I'm using **Vanilla Javascript**
-
-- 📝 I regularly write articles on [My Blog](https://isaacramm/blog.com)
+- 🌱 I’m currently learning **The MERN Stack**
 
 - 📫 Feel free to reach me out **[isaac.ramm@outlook.com](mailto::isaac.ramm@outlook.com)**
 <!--Intro end-->
